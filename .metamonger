@@ -1544,6 +1544,7 @@
 "2006/debconf6/theora-unscaled/2006-05-18/hacklab/Debian_and_the__100_Laptop-Jim_Gettys.ogg":{"mtime":1156132117},
 "2006/debconf6/theora-unscaled/2006-05-18/tower/Debian_installer_workshop-Frans_Pop.ogg":{"mtime":1155935393},
 "2006/debconf6/theora-unscaled/2006-05-18/tower/Governance_of_the_Debian_project-Bdale_Garbee.ogg":{"mtime":1397138562},
+"2006/debconf6/theora-unscaled/2006-05-18/tower/Releasing_in_time-Andi_Barth__Steve_Langasek.ogg":{"mtime":1154739138},
 "2006/debconf6/theora-unscaled/2006-05-18/tower/Weeding_out_security_bugs-Javier_Fernandez_Sanguino.ogg":{"mtime":1156078921},
 "2006/debconf6/theora-unscaled/2006-05-18/tower/X_org_status_and_plans-Keith_Packard.ogg":{"mtime":1156094607},
 "2006/debconf6/theora-unscaled/2006-05-19/biella/keysigning_party-Gabriella_Coleman.ogg":{"mtime":1156187817},
@@ -4664,5 +4665,7 @@
 "2014/mini-debconf-barcelona/slides/Understanding_Debian_Packages_by_Miriam_Ruiz.pdf":{"mtime":1396334791},
 "2014/mini-debconf-barcelona/slides/l10n_workshop_by_Francesca_Ciceri_+_Laura_Arjona.pdf":{"mtime":1396334791},
 "2014/mini-debconf-barcelona/slides/version-tracking-stable-RC-squashing.odp":{"mtime":1397133660},
-"2014/mini-debconf-barcelona/video.sh":{"mtime":1396334900}
+"2014/mini-debconf-barcelona/video.sh":{"mtime":1396334900},
+"LICENCE":{"mtime":1166632284},
+"LICENSE":{"mtime":1149633012}
 }}
